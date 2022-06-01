@@ -1,0 +1,22 @@
+.select-label {
+  display: block;
+  font-size: 0.8rem;
+  color: #999;
+  margin-bottom: 0.5rem;
+}
+
+.select-options {
+    display: block;
+    font-size: 0.8rem;
+    border: 1px solid #ccc;
+    margin-bottom: 0.5rem;
+}
+
+select {
+    width: 100%;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 0.25em;
+    font-size: 1em;
+    color: #333;
+}

@@ -1,0 +1,14 @@
+.text-label {
+  font-size: 0.8em;
+  color: #999;
+  margin-bottom: 0.5em;
+}
+
+.text-input {
+  width: 100%;
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  border-radius: 0.25em;
+  font-size: 1em;
+  color: #333;
+ }

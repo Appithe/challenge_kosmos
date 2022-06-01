@@ -1,0 +1,34 @@
+.form-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.form-check {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.form-check {
+    margin-bottom: 0.5rem;
+}
+
+.form-check-input {
+    margin-right: 0.5rem;
+}
+
+.form-check-label {
+    margin-right: 0.5rem;
+    font-size: 0.8rem;
+    color: #999;
+}
+
+.radio-label {
+    display: block;
+    font-size: 0.8rem;
+    color: #999;
+    margin-bottom: 0.5rem;
+}
